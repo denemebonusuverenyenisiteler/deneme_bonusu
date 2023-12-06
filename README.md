@@ -1,6 +1,6 @@
 # Deneme Bonusu Veren Yeni Siteler
 
-Merhaba, bu repo [newsspotify.com](https://newsspotify.com/) alan adında topladığım deneme bonusu veren yeni siteler hakkında bilgi içermektedir. Bu repo, interneti tarayarak güncel ve çeşitli deneme bonusu fırsatlarını bulmanıza yardımcı olacaktır.
+Merhaba, bu repo [Deneme Bonusu Veren Siteler](https://newsspotify.com/) alan adında topladığım deneme bonusu veren yeni siteler hakkında bilgi içermektedir. Bu repo, interneti tarayarak güncel ve çeşitli deneme bonusu fırsatlarını bulmanıza yardımcı olacaktır.
 
 ## İçerik
 
