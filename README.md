@@ -4,47 +4,47 @@ Merhaba, bu repo [Deneme Bonusu Veren Siteler](https://newsspotify.com/) alan ad
 
 ## İçerik
 
-### 1. [Site Adı 1](#site-adı-1)
-- **Tanıtım:** Site 1, kullanıcılara sağladığı deneme bonusları ile öne çıkıyor.
-- **Bonus Bilgisi:** Site 1'den alınabilecek deneme bonusu hakkında detaylı bilgiler.
+### 1. [misli.com](#misli)
+- **Tanıtım:** Misli.com, kullanıcılara sağladığı deneme bonusları ile öne çıkıyor.
+- **Bonus Bilgisi:** Yeni üyelere özel 200 TL deneme bonusu imkanı sunmaktadır.
 
-### 2. [Site Adı 2](#site-adı-2)
-- **Tanıtım:** Site 2, benzersiz özellikleri ve kullanıcı dostu arayüzü ile dikkat çekiyor.
-- **Bonus Bilgisi:** Site 2'den alınabilecek deneme bonusu hakkında detaylı bilgiler.
+### 2. [Nesine.com](#nesine)
+- **Tanıtım:** Nesine benzersiz özellikleri ve kullanıcı dostu arayüzü ile dikkat çekiyor.
+- **Bonus Bilgisi:** Tüm yeni üyelere sadece spor bahislerinde oynanabilecek %100 yatırım bonusu sunuyorlar.
 
-### 3. [Site Adı 3](#site-adı-3)
-- **Tanıtım:** Site 3, geniş oyun seçenekleri ve cazip promosyonları ile bilinir.
-- **Bonus Bilgisi:** Site 3'ten alınabilecek deneme bonusu hakkında detaylı bilgiler.
+### 3. [iddaa.com](#iddaa)
+- **Tanıtım:** İddaa, geniş oyun seçenekleri ve cazip promosyonları ile bilinir.
+- **Bonus Bilgisi:** iddaa.com üzerinde deneme bonusu almak için kayıt olduktan sonra Üye Bilgilerim kısmından Promosyonlar'a tıklıyorsunuz oradaki promosyon koduna "github_deneme_bonusu" yazmanız yeterli.
 
-## Site Adı 1
-![Site Adı 1](site1.png)
+## Nesine
+![Nesine.com](nesine.png)
 
-Site 1, kullanıcılarına sunduğu benzersiz deneme bonusları ile bilinir. Ayrıca, kullanıcı dostu arayüzü ve güvenilir ödeme seçenekleriyle dikkat çeker.
+Nesine, kullanıcılarına sunduğu benzersiz deneme bonusları ile bilinir. Ayrıca, kullanıcı dostu arayüzü ve güvenilir ödeme seçenekleriyle dikkat çeker.
 
 ### Bonus Bilgisi
 - **Deneme Bonusu:** 100 TL
 - **Kullanım Koşulları:** Bonusu alabilmek için minimum 50 TL yatırım yapılması gerekmektedir.
-- **Promosyon Kodu:** `SITE1BONUS`
+- **Promosyon Kodu:** `DENEME1BONUSU`
 
-## Site Adı 2
-![Site Adı 2](site2.png)
+## Betsson
+![Betsson](betsson.png)
 
-Site 2, geniş oyun seçenekleri ve yüksek oranlı bonusları ile bilinir. Ayrıca, mobil uyumluluğu sayesinde kullanıcılar istedikleri her yerden bahis yapabilirler.
+Betsson, geniş oyun seçenekleri ve yüksek oranlı bonusları ile bilinir. Ayrıca, mobil uyumluluğu sayesinde kullanıcılar istedikleri her yerden bahis yapabilirler.
 
 ### Bonus Bilgisi
 - **Deneme Bonusu:** 150 TL
 - **Kullanım Koşulları:** Bonusu alabilmek için ilk üyelikte minimum 100 TL yatırım yapılması gerekmektedir.
-- **Promosyon Kodu:** `SITE2BONUS`
+- **Promosyon Kodu:** `BETSZBONU30`
 
-## Site Adı 3
-![Site Adı 3](site3.png)
+## Milli Piyango
+![Milli Piyango](millipiyango.png)
 
-Site 3, güçlü altyapısı ve 7/24 müşteri desteği ile öne çıkar. Ayrıca, sadakat programı ile düzenli kullanıcılara özel bonuslar sunar.
+Milli Piyango, güçlü altyapısı ve 7/24 müşteri desteği ile öne çıkar. Ayrıca, sadakat programı ile düzenli kullanıcılara özel bonuslar sunar.
 
 ### Bonus Bilgisi
 - **Deneme Bonusu:** 200 TL
 - **Kullanım Koşulları:** Bonusu alabilmek için her ay minimum 500 TL yatırım yapılması gerekmektedir.
-- **Promosyon Kodu:** `SITE3BONUS`
+- **Promosyon Kodu:** `BENGELDIMBONUSU`
 
 ## Nasıl Katkıda Bulunabilirsiniz?
 
